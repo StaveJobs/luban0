@@ -20,7 +20,7 @@
        3.将本地项目与远程项目关联
         git branch --track --set-upstream-to=origin/master master
        4.将远程项目内容下载到本地
-        git pull --allow-norelated-histories
+        git pull  git pull origin master --allow-norelated-histories--allow-norelated-histories
        5.将本地文件提交到远程（此时本地远程保持一致）
         git push origin master
 
