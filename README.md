@@ -24,5 +24,3 @@
        5.将本地文件提交到远程（此时本地远程保持一致）
         git push origin master
 
-
-​    ![](C:\Users\Probably\AppData\Roaming\Typora\typora-user-images\1569826774612.png)
